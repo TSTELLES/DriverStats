@@ -64,7 +64,7 @@ User data may be retained while the account is active or as needed to provide ap
 
 Users may request deletion of their account data by contacting the developer at:
 
-YOUR_SUPPORT_EMAIL_HERE
+autoratstelles@gmail.com
 
 After receiving a deletion request, we will make reasonable efforts to delete associated account data from Firebase, unless retention is required for legal, security, or legitimate operational reasons.
 
